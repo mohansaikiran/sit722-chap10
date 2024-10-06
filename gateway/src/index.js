@@ -9,7 +9,7 @@ if (!process.env.PORT) {
 const PORT = process.env.PORT;
 
 //
-// Application entry point. comments
+// Application entry point. comment
 //
 async function main() {
     const app = express();

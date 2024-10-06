@@ -14,7 +14,7 @@ console.log(`Storing files at ${storagePath}.`);
 const app = express();
 
 //
-// HTTP GET route that streams a video from storage. comments
+// HTTP GET route that streams a video from storage. comment
 //
 app.get("/video", (req, res) => {
 
